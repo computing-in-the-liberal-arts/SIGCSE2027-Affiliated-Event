@@ -1,6 +1,6 @@
 # Innovations and Opportunities<br> in Liberal Arts Computing Education
 
-A [SIGCSE 2027](https://sigcse2027.sigcse.org) affiliated event organized by members of the [SIGCSE Committee on Computing Education in Liberal Arts Colleges](https://computing-in-the-liberal-arts.github.io/computing-in-the-liberal-arts/).
+A [SIGCSE 2027](https://2027.sigcse-ts.acm.org/) affiliated event organized by members of the [SIGCSE Committee on Computing Education in Liberal Arts Colleges](https://computing-in-the-liberal-arts.github.io/computing-in-the-liberal-arts/).
 
 This event builds on directions and priorities identified at our prior SIGCSE events:
 - [SIGCSE 2020 Pre-Symposium event](https://computing-in-the-liberal-arts.github.io/SIGCSE2020-PreSymposium-Event/)
@@ -22,7 +22,7 @@ This event builds on directions and priorities identified at our prior SIGCSE ev
     - This will be updated as needed.
 - [Resulting Materials](materials.md)
   - Will be posted during and after the event.
-- [SIGCSE 2027](https://sigcse2027.sigcse.org)
+- [SIGCSE 2027](https://2027.sigcse-ts.acm.org/)
 
 ## Important Dates
 
