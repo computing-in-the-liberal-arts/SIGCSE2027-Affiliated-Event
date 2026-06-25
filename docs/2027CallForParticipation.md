@@ -1,6 +1,6 @@
 # Innovations and Opportunities<br>in Liberal Arts Computing Education
 
-A [SIGCSE 2027](https://sigcse2027.sigcse.org) affiliated event organized by members of the [SIGCSE Committee on Computing Education in Liberal Arts Colleges](https://computing-in-the-liberal-arts.github.io/computing-in-the-liberal-arts/).
+A [SIGCSE 2027](https://2027.sigcse-ts.acm.org/)) affiliated event organized by members of the [SIGCSE Committee on Computing Education in Liberal Arts Colleges](https://computing-in-the-liberal-arts.github.io/computing-in-the-liberal-arts/).
 
 This event builds on directions and priorities identified at our prior SIGCSE events:
 - [SIGCSE 2020 Pre-Symposium event](https://computing-in-the-liberal-arts.github.io/SIGCSE2020-PreSymposium-Event/)
@@ -21,7 +21,7 @@ Throughout the event, sessions will give participants an opportunity to learn ab
 
 Submissions are not required to attend; all interested faculty and students are welcome. Registration will be through the SIGCSE Technical Symposium registration system with no additional fee to attend.
 
-This is a [SIGCSE 2027](https://sigcse2027.sigcse.org/) affiliated event organized by members of the[ SIGCSE Committee on Computing Education in Liberal Arts Colleges](https://computing-in-the-liberal-arts.github.io/). Full details about this event including this Call for Participation and links to information about our previous annual events are available at the Committee's[ SIGCSE 2026 Affiliated Event site](https://computing-in-the-liberal-arts.github.io/SIGCSE2026-Affiliated-Event/).
+This is a [SIGCSE 2027](https://2027.sigcse-ts.acm.org/) affiliated event organized by members of the[ SIGCSE Committee on Computing Education in Liberal Arts Colleges](https://computing-in-the-liberal-arts.github.io/). Full details about this event including this Call for Participation and links to information about our previous annual events are available at the Committee's[ SIGCSE 2026 Affiliated Event site](https://computing-in-the-liberal-arts.github.io/SIGCSE2026-Affiliated-Event/).
 
 
 ## Important Dates
