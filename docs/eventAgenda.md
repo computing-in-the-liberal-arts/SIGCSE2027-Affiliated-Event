@@ -4,7 +4,7 @@ An affiliated event at [SIGCSE 2027](https://2027.sigcse-ts.acm.org/) organized 
 
 ## Event Agenda
 
-- Wednesday, February 17th, 2026, 1:00am - 6:00pm
+- Wednesday, February 17th, 2027, 1:00am - 6:00pm
 - [SAFE Credit Union Convention Center]([https://explorestlouis.com/americas-center/](https://safecreditunionconventioncenter.com/)) in Sacramento, California.
 - Location: TBA
 
