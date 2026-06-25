@@ -1,6 +1,6 @@
 # Innovations and Opportunities<br>in Liberal Arts Computing Education
 
-A [SIGCSE 2026](https://sigcse2026.sigcse.org) affiliated event organized by members of the [SIGCSE Committee on Computing Education in Liberal Arts Colleges](https://computing-in-the-liberal-arts.github.io/computing-in-the-liberal-arts/).
+A [SIGCSE 2027](https://sigcse2027.sigcse.org) affiliated event organized by members of the [SIGCSE Committee on Computing Education in Liberal Arts Colleges](https://computing-in-the-liberal-arts.github.io/computing-in-the-liberal-arts/).
 
 This event builds on directions and priorities identified at our prior SIGCSE events:
 - [SIGCSE 2020 Pre-Symposium event](https://computing-in-the-liberal-arts.github.io/SIGCSE2020-PreSymposium-Event/)
@@ -9,10 +9,11 @@ This event builds on directions and priorities identified at our prior SIGCSE ev
 - [SIGCSE 2023 Affiliated event](https://computing-in-the-liberal-arts.github.io/SIGCSE2023-Affiliated-Event/)
 - [SIGCSE 2024 Affiliated Event](https://computing-in-the-liberal-arts.github.io/SIGCSE2024-Affiliated-Event/)
 - [SIGCSE 2025 Affiliated event](https://computing-in-the-liberal-arts.github.io/SIGCSE2025-Affiliated-Event/)
+- [SIGCSE 2026 Affiliated event](https://computing-in-the-liberal-arts.github.io/SIGCSE2026-Affiliated-Event/)
 
-This afternoon event, scheduled for Wednesday, February 18th, 2026 from 1:00 – 6:00 PM in St Louis, will promote connection and collaboration within the liberal arts computing community. It will be split into an opening session of presentations and panels followed by an unconference session. Submissions are invited for both sessions.
+This afternoon event, scheduled for Wednesday, February 17th, 2026 from 1:00 – 6:00 PM in Sacramento, will promote connection and collaboration within the liberal arts computing community. It will be split into an opening session of presentations and panels followed by an unconference session. Submissions are invited for both sessions.
 
-The opening session will focus on topics covering the breadth of opportunities and challenges faced by liberal arts computing educators. These topics may include innovative courses, curricula, co-curricular programs, academic and career advising, faculty recruiting and retention, and other issues as identified to have a specific liberal arts perspective. Selected submissions will be presented, with additional opportunities for discussion in breakout sessions. Updates from working groups formed at the 2025 Affiliated Event will also be shared.
+The opening session will focus on topics covering the breadth of opportunities and challenges faced by liberal arts computing educators. These topics may include innovative courses, curricula, co-curricular programs, academic and career advising, faculty recruiting and retention, and other issues as identified to have a specific liberal arts perspective. Selected submissions will be presented, with additional opportunities for discussion in breakout sessions. Updates from working groups formed at the 2026 Affiliated Event will also be shared.
 
 The second session will be held in an “unconference” format, with proposals accepted for working group topics from the community as a whole. This will allow the community time to connect and collaborate on projects of shared interest. Participants will select between topics within this session, which can be organized in a workshop, working group, or discussion group style. Examples of possible topics are provided below, but we welcome any proposal that may be of interest to liberal arts computing educators.
 
@@ -20,16 +21,16 @@ Throughout the event, sessions will give participants an opportunity to learn ab
 
 Submissions are not required to attend; all interested faculty and students are welcome. Registration will be through the SIGCSE Technical Symposium registration system with no additional fee to attend.
 
-This is a[ ](https://sigcse2024.sigcse.org/)[SIGCSE 2026](https://sigcse2026.sigcse.org/) affiliated event organized by members of the[ SIGCSE Committee on Computing Education in Liberal Arts Colleges](https://computing-in-the-liberal-arts.github.io/). Full details about this event including this Call for Participation and links to information about our previous annual events are available at the Committee's[ SIGCSE 2026 Affiliated Event site](https://computing-in-the-liberal-arts.github.io/SIGCSE2026-Affiliated-Event/).
+This is a [SIGCSE 2027](https://sigcse2027.sigcse.org/) affiliated event organized by members of the[ SIGCSE Committee on Computing Education in Liberal Arts Colleges](https://computing-in-the-liberal-arts.github.io/). Full details about this event including this Call for Participation and links to information about our previous annual events are available at the Committee's[ SIGCSE 2026 Affiliated Event site](https://computing-in-the-liberal-arts.github.io/SIGCSE2026-Affiliated-Event/).
 
 
 ## Important Dates
 
 | Category                           | Date|
 |------------------------------------|-----------------------|
-| Submissions Accepted Until         | November 24th, 2025 |
-| Publication of Full Agenda         | December 1st, 2025 |
-| In-Person Event at SIGCSE          | February 18th, 2026, 1:00 - 6:00 PM |
+| Submissions Accepted Until         | November 20th, 2026 |
+| Publication of Full Agenda         | December 1st, 2026 |
+| In-Person Event at SIGCSE          | February 17th, 2027, 1:00 - 6:00 PM |
 
 
 - **Invitation for Submissions**
@@ -72,9 +73,9 @@ Submissions should follow the template provided below. Submissions will be revie
     2. E-mail the contact for the session, Jakob Barnard (Jakob.Barnard@uj.edu), with a zip file containing your submission and any images or other supporting files. The Program Committee will add your submission to the repository.
     3. If you wish to make more than one submission, please submit a separate zip file for each submission.
   - **GitHub Pull Request**: If you are comfortable with git and GitHub, submissions may be made via GitHub pull requests.
-    1. Fork the Computing in the Liberal Arts SICSE2026 Affiliated Event Repository.
+    1. Fork the Computing in the Liberal Arts SICSE2027 Affiliated Event Repository.
 
-  [https://computing-in-the-liberal-arts.github.io/SIGCSE2026-Affiliated-Event/](https://computing-in-the-liberal-arts.github.io/SIGCSE2026-Affiliated-Event/)
+  [https://computing-in-the-liberal-arts.github.io/SIGCSE2027-Affiliated-Event/](https://computing-in-the-liberal-arts.github.io/SIGCSE2027-Affiliated-Event/)
 
   2. Create a branch for your submission.
   3. Add a sub-directory for your submission to the appropriate directory (*curricula*, or *opportunities*).
