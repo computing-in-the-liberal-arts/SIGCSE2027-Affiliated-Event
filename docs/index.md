@@ -1,6 +1,6 @@
 # Innovations and Opportunities<br> in Liberal Arts Computing Education
 
-A [SIGCSE 2026](https://sigcse2026.sigcse.org) affiliated event organized by members of the [SIGCSE Committee on Computing Education in Liberal Arts Colleges](https://computing-in-the-liberal-arts.github.io/computing-in-the-liberal-arts/).
+A [SIGCSE 2027](https://sigcse2027.sigcse.org) affiliated event organized by members of the [SIGCSE Committee on Computing Education in Liberal Arts Colleges](https://computing-in-the-liberal-arts.github.io/computing-in-the-liberal-arts/).
 
 This event builds on directions and priorities identified at our prior SIGCSE events:
 - [SIGCSE 2020 Pre-Symposium event](https://computing-in-the-liberal-arts.github.io/SIGCSE2020-PreSymposium-Event/)
@@ -9,11 +9,12 @@ This event builds on directions and priorities identified at our prior SIGCSE ev
 - [SIGCSE 2023 Affiliated event](https://computing-in-the-liberal-arts.github.io/SIGCSE2023-Affiliated-Event/)
 - [SIGCSE 2024 Affiliated event](https://computing-in-the-liberal-arts.github.io/SIGCSE2024-Affiliated-Event/)
 - [SIGCSE 2025 Affiliated event](https://computing-in-the-liberal-arts.github.io/SIGCSE2025-Affiliated-Event/)
+- [SIGCSE 2026 Affiliated event](https://computing-in-the-liberal-arts.github.io/SIGCSE2026-Affiliated-Event/)
 
 ## Event Information
 
-- [Event Proposal](2026-event-proposal.pdf)
-- [Call for Participation](2026CallForParticipation.md)
+- Event Proposal (TBD)
+- [Call for Participation](2027CallForParticipation.md)
     - Submissions are invited on effective innovations in liberal arts computing curricula and on explorations of unique opportunities or challenges faced by the liberal arts computing education community. Details about submission requirements and process are available in the Call for Participation.
 - Registration via the SIGCSE Conference registration.
   - This event will be held in person. Attendees must register for the SIGCSE Technical Symposium and register for the pre-conference event as part of that.
@@ -21,15 +22,15 @@ This event builds on directions and priorities identified at our prior SIGCSE ev
     - This will be updated as needed.
 - [Resulting Materials](materials.md)
   - Will be posted during and after the event.
-- [SIGCSE 2026](https://sigcse2026.sigcse.org)
+- [SIGCSE 2027](https://sigcse2027.sigcse.org)
 
 ## Important Dates
 
 | Category                           | Date|
 |------------------------------------|-----------------------|
-| Submissions Accepted Until         | November 24th, 2026 |
+| Submissions Accepted Until         | November 20th, 2026 |
 | Publication of Full Agenda        | December 1st, 2026 |
-| In-Person Event at SIGCSE          | February 18th, 2026, 1:00-6:00 PM |
+| In-Person Event at SIGCSE          | February 17th, 2027, 1:00-6:00 PM |
 
 ## Organizers
 
