@@ -1,6 +1,6 @@
 # Innovations and Opportunities<br>in Liberal Arts Computing Education
 
-An affiliated event at [SIGCSE 2027](https://sigcse2027.sigcse.org) organized by members of the SIGCSE Committee on Computing Education in Liberal Arts Colleges. This event will let us share and learn about curricular innovations, challenges, and opportunities particular to our liberal arts settings.
+An affiliated event at [SIGCSE 2027](https://2027.sigcse-ts.acm.org/) organized by members of the SIGCSE Committee on Computing Education in Liberal Arts Colleges. This event will let us share and learn about curricular innovations, challenges, and opportunities particular to our liberal arts settings.
 
 ## Event Agenda
 
