@@ -35,7 +35,6 @@ This event builds on directions and priorities identified at our prior SIGCSE ev
 ## Organizers
 
 - Amanda Holland-Minkley, Washington & Jefferson College
-- Andrea Tartaro, Furman University
 - Jakob E. Barnard, University of Jamestown
 
 ## Program Committee
@@ -43,10 +42,8 @@ This event builds on directions and priorities identified at our prior SIGCSE ev
 - Jakob E. Barnard, University of Jamestown
 - Grant Braught, Dickinson College
 - Matthew Ferland, Dickinson College
-- Olive Franzese, Northwestern University
 - Amanda Holland-Minkley, Washington & Jefferson College
 - Karl Schmitt, Trinity Christian College
-- Andrea Tartaro, Furman University
 - James Teresco, Siena University
 
 ## Sponsors
