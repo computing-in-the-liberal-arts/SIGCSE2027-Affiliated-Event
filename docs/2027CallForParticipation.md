@@ -35,7 +35,11 @@ This is a [SIGCSE 2027](https://2027.sigcse-ts.acm.org/) affiliated event organi
 
 - **Invitation for Submissions**
 
-  **Opening Session: TBD**
+  **Opening Session: Innovations, Opportunities, and Challenges **
+
+  The program committee invites submissions for presentations on any topic in computing education with a particular focus on liberal arts perspectives and approaches. Templates are provided to propose either an **effective innovation** or an exploration of a **unique opportunity or challenge** faced by the liberal arts computing education community. Submitters should select the template that works best for them. Possible topics might include innovative courses, curricula, or co-curricular programs, academic and career advising, faculty recruiting and retention, and other issues as identified to have a specific liberal arts perspective. Selected submissions will be briefly presented, roughly 10-15 minutes each. Breakout sessions, led by panelists and program committee members, will then be used to allow attendees to discuss these topics in small groups with the presenter and other interested attendees.
+
+Submissions should follow the templates provided below. The program committee will lightly screen all submissions for suitability. All suitable submissions will be made available to the community through the Committee site, and all authors of accepted submissions will receive an invitation to participate in the event.
 
   **Unconference Session**
 
@@ -48,7 +52,14 @@ Submissions should follow the template provided below. Submissions will be revie
   The program committee invites submissions following the provided templates indicating the information requested in a submission. All submissions may be made through email or GitHub pull request following the process described below. Submissions, and questions about submissions, can be sent to Jakob Barnard (Jakob.Barnard@uj.edu).
 
   1. **Morning Session (Pick one template):**
-     - **TBD:** TBD
+     - **Curricular Innovation Submissions:** A brief (1 to 2-page) description of a curricular innovation that reflects a specifically liberal arts philosophy. This may include full curriculum models, individual courses, outreach programs, co-curricular programs, or other interdisciplinary or liberal-arts-focused educational initiatives. Please see the template below. 
+     - Submission Templates: 
+       - Markdown:[ ](https://computing-in-the-liberal-arts.github.io/SIGCSE2024-Affiliated-Event/CurricularInnovationTemplate.html)[https://github.com/computing-in-the-liberal-arts/committee-templates/blob/main/docs/events/CurricularInnovationTemplate.md](https://github.com/computing-in-the-liberal-arts/committee-templates/blob/main/docs/events/CurricularInnovationTemplate.md)
+       - MS Word:[ ](https://computing-in-the-liberal-arts.github.io/SIGCSE2024-Affiliated-Event/CurricularInnovationTemplate.docx)[https://github.com/computing-in-the-liberal-arts/committee-templates/blob/main/docs/events/CurricularInnovationTemplate.docx](https://github.com/computing-in-the-liberal-arts/committee-templates/blob/main/docs/events/CurricularInnovationTemplate.docx ) 
+     - **Opportunities and Challenges Submissions:** A brief (1 to 2-page) exploration of an opportunity or challenge in computing education that is either unique to the liberal arts context or where the liberal arts context provides a usefully distinctive perspective. These need not be exhaustively researched explorations but submissions should illustrate how the presenter would be able to bring context or knowledge beyond first-hand, anecdotal experience to the conversation. 
+     - Submission Templates:
+       - Markdown:[ ](https://computing-in-the-liberal-arts.github.io/SIGCSE2024-Affiliated-Event/OpportunitiesChallengesTemplate.html)[https://github.com/computing-in-the-liberal-arts/committee-templates/blob/main/docs/events/OpportunitiesChallengesTemplate.md](https://github.com/computing-in-the-liberal-arts/committee-templates/blob/main/docs/events/OpportunitiesChallengesTemplate.md ) 
+       - MS Word:[ ](https://computing-in-the-liberal-arts.github.io/SIGCSE2024-Affiliated-Event/OpportunitesChallengesTemplate.docx)[https://github.com/computing-in-the-liberal-arts/committee-templates/blob/main/docs/events/OpportunitesChallengesTemplate.docx](https://github.com/computing-in-the-liberal-arts/committee-templates/blob/main/docs/events/OpportunitesChallengesTemplate.docx)
   2. **Afternoon Session - Unconference Submissions:** A brief (1 to 2-page) description of the topic proposed for discussion, intended format for the session, and desired outcomes or products. The Unconference session has been scheduled to run for three hours, with a half-hour break in the middle. Please see the template below.
      - Markdown:  [https://github.com/computing-in-the-liberal-arts/committee-templates/blob/main/docs/events/UnconferenceTemplate.md](https://github.com/computing-in-the-liberal-arts/committee-templates/blob/main/docs/events/UnconferenceTemplate.md ) 
      - MS Word: [https://github.com/computing-in-the-liberal-arts/committee-templates/blob/main/docs/events/UnconferenceTemplate.docx](https://github.com/computing-in-the-liberal-arts/committee-templates/blob/main/docs/events/UnconferenceTemplate.docx ) 

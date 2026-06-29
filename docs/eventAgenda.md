@@ -18,7 +18,7 @@ Event organizers will collect links to content created in each session and add t
 
 During this unconference session, participants will be invited to join a group for structured discussion or collaborative work designed to lead to a particular outcome or product. This might include structured notes on a topic, a collection of resources, a position statement, or plans for an on-going working group.
 
-A preliminary list of [proposed unconference sessions](https://docs.google.com/document/d/1V1TejkXV9rHUexTZ6aUXkjH0eHq0bjqfgyIXL4AzCPM/edit?usp=sharing) will be available for review prior to the event. Additions to this list will be accepted up until the time of the event and will also be solicited at the end of the morning session. Information on submitting unconference session suggestions is available in our [Call for Submissions](https://computing-in-the-liberal-arts.github.io/SIGCSE2027-Affiliated-Event/2026CallForParticipation.html) or can be sent via email to Jakob Barnard ([Jakob.Barnard@uj.edu](mailto:Jakob.Barnard@uj.edu))
+A preliminary list of proposed unconference sessions will be available for review prior to the event. Additions to this list will be accepted up until the time of the event and will also be solicited at the end of the morning session. Information on submitting unconference session suggestions is available in our [Call for Submissions](https://computing-in-the-liberal-arts.github.io/SIGCSE2027-Affiliated-Event/2026CallForParticipation.html) or can be sent via email to Jakob Barnard ([Jakob.Barnard@uj.edu](mailto:Jakob.Barnard@uj.edu))
 
 **Selection of Unconference Sessions**
 
