@@ -13,9 +13,9 @@ This event builds on directions and priorities identified at our prior SIGCSE ev
 
 This afternoon event, scheduled for Wednesday, February 17th, 2026 from 1:00 – 6:00 PM in Sacramento, will promote connection and collaboration within the liberal arts computing community. It will be split into an opening session of presentations and panels followed by an unconference session. Submissions are invited for both sessions.
 
-The opening session will focus on topics covering the breadth of opportunities and challenges faced by liberal arts computing educators. These topics may include innovative courses, curricula, co-curricular programs, academic and career advising, faculty recruiting and retention, and other issues as identified to have a specific liberal arts perspective. Selected submissions will be presented, with additional opportunities for discussion in breakout sessions. Updates from working groups formed at the 2026 Affiliated Event will also be shared.
+The first session will focus on topics covering the breadth of opportunities and challenges faced by liberal arts computing educators. These topics may include innovative courses, curricula, co-curricular programs, academic and career advising, faculty recruiting and retention, and other issues as identified to have a specific liberal arts perspective. Selected submissions will be presented, with additional opportunities for discussion in breakout sessions. Updates from working groups formed at the 2026 Affiliated Event will also be shared.
 
-The second session will be held in an “unconference” format, with proposals accepted for working group topics from the community as a whole. This will allow the community time to connect and collaborate on projects of shared interest. Participants will select between topics within this session, which can be organized in a workshop, working group, or discussion group style. Examples of possible topics are provided below, but we welcome any proposal that may be of interest to liberal arts computing educators.
+The second session will be held in an “unconference” format, with proposals accepted for working group topics from the community as a whole before or during the event. This will allow the community time to connect and collaborate on projects of shared interest. Participants will select between topics within this session, which can be organized in a workshop, working group, or discussion group style. Examples of possible topics are provided below, but we welcome any proposal that may be of interest to liberal arts computing educators.
 
 Throughout the event, sessions will give participants an opportunity to learn about work already taking place within the liberal arts computing community as well as to engage in Q&A and breakout discussions. Opportunities for networking with others in the liberal arts CS community will be emphasized.
 
@@ -78,10 +78,8 @@ Submissions should follow the template provided below. Submissions will be revie
   - Jakob Barnard, University of Jamestown
   - Grant Braught, Dickinson College
   - Matthew Ferland, Dickinson College
-  - Olive Franzese, Northwestern University
   - Amanda Holland-Minkley, Washington & Jefferson College
   - Karl Schmitt, Trinity Christian College
-  - Andrea Tartaro, Furman University
   - James Teresco, Siena College
 
 
