@@ -13,7 +13,7 @@ This event builds on directions and priorities identified at our prior SIGCSE ev
 
 ## Event Information
 
-- Event Proposal (TBD)
+- [Event Proposal](SIGCSE-Affiliated-Event-Proposal-2027.pdf)
 - [Call for Participation](2027CallForParticipation.md)
     - Submissions are invited on effective innovations in liberal arts computing curricula and on explorations of unique opportunities or challenges faced by the liberal arts computing education community. Details about submission requirements and process are available in the Call for Participation.
 - Registration via the SIGCSE Conference registration.
