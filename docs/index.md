@@ -43,7 +43,7 @@ This event builds on directions and priorities identified at our prior SIGCSE ev
 - Grant Braught, Dickinson College
 - Matthew Ferland, Dickinson College
 - Amanda Holland-Minkley, Washington & Jefferson College
-- Karl Schmitt, Trinity Christian College
+- Karl Schmitt, University of Illinois Chicago
 - James Teresco, Siena University
 
 ## Sponsors
@@ -52,7 +52,7 @@ TBD
 
 ## Acknowledgement
 
-This material is based upon work supported by the National Science Foundation under Grant
+Portions of this material is based upon work supported by the National Science Foundation under Grant
 No. 2342587.
 
 ___
