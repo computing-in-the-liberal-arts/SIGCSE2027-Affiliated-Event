@@ -1,29 +1,21 @@
-```
-# _Unconference Topic_
+# Competency-based grading in Data Structures and in Operating Systems
 
-Contributed by _Name_, _Email address_, _Affiliation_
-Additional contributors (if any):
+Contributed by James Vanderhyde, vanderhyde@sxu.edu, Saint Xavier University
 
-_Please limit your contribution to about two pages, or 700-1000 words._
-
-## Brief summary of topic
-_Describe your topic and address its relevance to the Liberal Arts
-Computing Education Community_
+## Summary
+There has been a lot of excitement recently in the computer science education community about competency-based grading. This is variously known as specifications grading, standards-based grading, and, more broadly, alternative grading. We have been experimenting with standards-based grading in our Data Structures course and our Operating Systems course. We have read Feldman's _Grading for Equity_ and Clark and Talbert's _Grading for Growth_. We have attempted to apply the recommendations of these books to our own courses and would like to lead others to do the same.
 
 ## Description of session structure
-_Give enough detail to assure that the 2.5 hours allocated can be well
-used, but leaving flexibility for participants to help shape the session
-is fine._
+
+We will begin by sharing our experiences with different styles of alternative grading techniques in our Data Structures course and our Operating Systems course over the last three years. We have had mixed results, so we will be happy to share what went right and what went wrong.
+
+After this, participants can brainstorm ideas on how alternative grading may help their own students. Finally, participants can proceed by applying ideas from _Grading for Growth_ to one of their our courses. We will assist in whatever way is needed by the participants.
 
 ## Space or resource considerations
-_Indicate any resource considerations, if participants will need a
-laptop, etc._
+We can work together at a table. Participants will need whatever they want to work with when analyzing their course.
 
 ## Ideal Audience for Session
-_Who do you envision being most interested in this session
-(e.g. someone teaching HCI, department chairs,...)_
+Anyone who wants to explore alternative grading, work on adapting their own courses, or anyone with expertise to share is welcome.
 
 ## Intended Outcomes or Products
-_What artifacts will be able to be shared with the community?
-These will be linked to through the committee webspace._
-```
+We can share our approaches to standards-based grading as model courses, and any participants can share as they want.
